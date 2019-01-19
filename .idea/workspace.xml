@@ -1,116 +1,284 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c7d891-e07b-4b9d-88f6-789cb067c625" name="Default Changelist" comment="" />
+    <list default="true" id="38c7d891-e07b-4b9d-88f6-789cb067c625" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/AndroidInterfaceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/AndroidOperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/AndroidSystemFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/InterfaceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/OperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/OperationGameFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/SymbianInterfaceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/SymbianOperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/SymbianSystemFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/java/com/natsuki/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgepattern/java/com/natsuki/BridgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadMysqlDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadOracleDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse2Txt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse2Xml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpattern/java/com/natsuki/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpattern/java/com/natsuki/ActorBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpattern/java/com/natsuki/ActorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpattern/java/com/natsuki/AngelBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpattern/java/com/natsuki/DevilBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpattern/java/com/natsuki/HeroBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpattern/test/BuilderPatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpatternpractice/java/com/natsuki/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpatternpractice/java/com/natsuki/PlayerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpatternpractice/java/com/natsuki/TestBuilderParctice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builderpatternpractice/java/com/natsuki/WholePlayerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/ChainOfResponsibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Congress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/PurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/VicePresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandpattern/java/com/natsuki/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandpattern/java/com/natsuki/CommandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandpattern/java/com/natsuki/ConfigOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandpattern/java/com/natsuki/ConfigSettingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandpattern/java/com/natsuki/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandpattern/java/com/natsuki/InsertCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commandpattern/java/com/natsuki/ModifyCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compositepattern/java/com/natsuki/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compositepattern/java/com/natsuki/CompanyContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compositepattern/java/com/natsuki/CompositeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compositepattern/java/com/natsuki/HRUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compositepattern/java/com/natsuki/TechnologyUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decoratorpattern/java/com/natsuki/AbstractEncryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decoratorpattern/java/com/natsuki/Encryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decoratorpattern/java/com/natsuki/EncryptionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decoratorpattern/java/com/natsuki/SecondEncryptionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decoratorpattern/java/com/natsuki/TestDecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decoratorpattern/java/com/natsuki/ThirdEncryptionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependenceinversion/java/com/natsuki/Jsony.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependenceinversion/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorymethod/java/com/natsuki/GifImageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorymethod/java/com/natsuki/GifImageReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorymethod/java/com/natsuki/ImageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorymethod/java/com/natsuki/ImageReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorymethod/java/com/natsuki/JPGImageReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorymethod/java/com/natsuki/JPGImageReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorymethod/test/TestFactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/AbstractIgoChessman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/BlackIgoChessman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/FlyWeightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/IgoChessmanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/WhiteIgoChessman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mementopattern/java/com/natsuki/Chessman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mementopattern/java/com/natsuki/ChessmanMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mementopattern/java/com/natsuki/MementoCaretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mementopattern/java/com/natsuki/MementoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observerpattern/java/com/natsuki/Investor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observerpattern/java/com/natsuki/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observerpattern/java/com/natsuki/Share.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype/java/com/natsuki/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype/java/com/natsuki/MailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototypepattern/java/com/natsuki/Attachment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototypepattern/java/com/natsuki/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototypepattern/java/com/natsuki/WeeklyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplefactory/Test/TestSimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplefactory/java/com/natsuki/CircleTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplefactory/java/com/natsuki/GeoMetryToolFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplefactory/java/com/natsuki/GeometryTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplefactory/java/com/natsuki/RectangleTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplefactory/java/com/natsuki/TriangleTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/java/com/natsuki/EnumInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/java/com/natsuki/LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/java/com/natsuki/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/java/com/natsuki/PerfectSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/java/com/natsuki/StaticInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/java/com/natsuki/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton/java/com/natsuki/TestSIngleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern/java/com/natsuki/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern/java/com/natsuki/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern/java/com/natsuki/EmployeeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern/java/com/natsuki/FADepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern/java/com/natsuki/FulltimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern/java/com/natsuki/HRDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern/java/com/natsuki/ParttimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/RewardSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/VisitorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/design_pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open_close/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/open_close/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/com/natsuki/ICourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/com/natsuki/ICourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/com/natsuki/JavaCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/com/natsuki/JavaCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/design_pattern/com/natsuki/JavaDiscountCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/design_pattern/com/natsuki/JavaDiscountCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/design_pattern/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/design_pattern/Test.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="752878164">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="JavaScript-modules-diagram//Users/xuzhiwei/Downloads/design_pattern/open_close" value="1" />
-          <entry key="java" value="6" />
-          <entry key="md" value="1" />
-          <entry key="natsuki" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="6" />
-          <entry key="Markdown" value="1" />
-          <entry key="UML" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="354" />
-          <entry key="md" value="201" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="354" />
-          <entry key="Markdown" value="201" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open_close/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/FulltimeEmployee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open_close/java/com/natsuki/ICourse.java">
+        <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/ParttimeEmployee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+              <folding>
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/FADepartment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open_close/java/com/natsuki/JavaCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-              </folding>
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/open_close/java/com/natsuki/JavaDiscountCourse.java">
+        <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/VisitorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/RewardSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#703#704#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open_close/test/Test.java">
+        <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="55">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/HRDepartment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/EmployeeList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,39 +289,93 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iterator</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/open_close/java/com/natsuki/ICourse.java" />
-        <option value="$PROJECT_DIR$/open_close/java/com/natsuki/JavaCourse.java" />
-        <option value="$PROJECT_DIR$/open_close/java/com/natsuki/JavaDiscountCourse.java" />
-        <option value="$PROJECT_DIR$/open_close/readme.md" />
-        <option value="$PROJECT_DIR$/open_close/test/Test.java" />
+        <option value="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/Coordinates.java" />
+        <option value="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/AbstractIgoChessman.java" />
+        <option value="$PROJECT_DIR$/flyweightpattern/java/com/natsuki/FlyWeightTest.java" />
+        <option value="$PROJECT_DIR$/compositepattern/java/com/natsuki/Company.java" />
+        <option value="$PROJECT_DIR$/compositepattern/java/com/natsuki/CompantUnit.java" />
+        <option value="$PROJECT_DIR$/compositepattern/java/com/natsuki/HRUnit.java" />
+        <option value="$PROJECT_DIR$/compositepattern/java/com/natsuki/TechnologyUnit.java" />
+        <option value="$PROJECT_DIR$/compositepattern/java/com/natsuki/CompanyContainer.java" />
+        <option value="$PROJECT_DIR$/compositepattern/java/com/natsuki/CompositeTest.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/DataBase.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadDataBase.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadOracleDataBase.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadMysqlDataBase.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse2Xml.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse2Txt.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/BridgeTest.java" />
+        <option value="$PROJECT_DIR$/bridgepattern/java/com/natsuki/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/observerpattern/java/com/natsuki/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/observerpattern/java/com/natsuki/Investor.java" />
+        <option value="$PROJECT_DIR$/observerpattern/java/com/natsuki/Share.java" />
+        <option value="$PROJECT_DIR$/mementopattern/java/com/natsuki/ChessmanMemento.java" />
+        <option value="$PROJECT_DIR$/mementopattern/java/com/natsuki/Chessman.java" />
+        <option value="$PROJECT_DIR$/mementopattern/java/com/natsuki/MementoCaretaker.java" />
+        <option value="$PROJECT_DIR$/mementopattern/java/com/natsuki/MementoTest.java" />
+        <option value="$PROJECT_DIR$/commandpattern/java/com/natsuki/ConfigOperator.java" />
+        <option value="$PROJECT_DIR$/commandpattern/java/com/natsuki/Command.java" />
+        <option value="$PROJECT_DIR$/commandpattern/java/com/natsuki/InsertCommand.java" />
+        <option value="$PROJECT_DIR$/commandpattern/java/com/natsuki/ModifyCommand.java" />
+        <option value="$PROJECT_DIR$/commandpattern/java/com/natsuki/FileUtil.java" />
+        <option value="$PROJECT_DIR$/commandpattern/java/com/natsuki/ConfigSettingWindow.java" />
+        <option value="$PROJECT_DIR$/commandpattern/java/com/natsuki/CommandTest.java" />
+        <option value="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Approver.java" />
+        <option value="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/PurchaseRequest.java" />
+        <option value="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Director.java" />
+        <option value="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/VicePresident.java" />
+        <option value="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/President.java" />
+        <option value="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Congress.java" />
+        <option value="$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/ChainOfResponsibility.java" />
+        <option value="$PROJECT_DIR$/visitorpattern/java/com/natsuki/Employee.java" />
+        <option value="$PROJECT_DIR$/visitorpattern/java/com/natsuki/Department.java" />
+        <option value="$PROJECT_DIR$/visitorpattern/java/com/natsuki/FulltimeEmployee.java" />
+        <option value="$PROJECT_DIR$/visitorpattern/java/com/natsuki/ParttimeEmployee.java" />
+        <option value="$PROJECT_DIR$/visitorpattern/java/com/natsuki/FADepartment.java" />
+        <option value="$PROJECT_DIR$/visitorpattern/java/com/natsuki/HRDepartment.java" />
+        <option value="$PROJECT_DIR$/visitorpattern/java/com/natsuki/EmployeeList.java" />
+        <option value="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/User.java" />
+        <option value="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/Teacher.java" />
+        <option value="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/Student.java" />
+        <option value="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/RewardSystem.java" />
+        <option value="$PROJECT_DIR$/visitorpattern2/java/com/natsuki/VisitorTest.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="850" />
-    <option name="width" value="830" />
-    <option name="height" value="1050" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,48 +383,32 @@
               <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="open_close" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="open_close" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="open_close" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="natsuki" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="open_close" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="maven&#9;ACTION&#9;Maven.ShowSettings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542545417749" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544856413547" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.natsuki" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,17 +422,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+  <component name="RunManager" selected="Application.VisitorTest">
+    <configuration name="ChainOfResponsibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.natsuki.ChainOfResponsibility" />
       <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.natsuki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CommandTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.natsuki.CommandTest" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.natsuki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MementoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.natsuki.MementoTest" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.natsuki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.natsuki.ObserverTest" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.natsuki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.natsuki.VisitorTest" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.natsuki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ObserverTest" />
+      <item itemvalue="Application.MementoTest" />
+      <item itemvalue="Application.CommandTest" />
+      <item itemvalue="Application.ChainOfResponsibility" />
+      <item itemvalue="Application.VisitorTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.VisitorTest" />
+        <item itemvalue="Application.ChainOfResponsibility" />
+        <item itemvalue="Application.CommandTest" />
+        <item itemvalue="Application.MementoTest" />
+        <item itemvalue="Application.ObserverTest" />
       </list>
     </recent_temporary>
   </component>
@@ -240,68 +515,415 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542538791638</updated>
-      <workItem from="1542538793927" duration="3118000" />
+      <workItem from="1542538793927" duration="4119000" />
+      <workItem from="1542712219369" duration="11000" />
+      <workItem from="1542712255687" duration="149000" />
+      <workItem from="1542712476287" duration="124000" />
+      <workItem from="1542774976174" duration="811000" />
+      <workItem from="1542949269597" duration="1533000" />
+      <workItem from="1543030700763" duration="69000" />
+      <workItem from="1543058333002" duration="1075000" />
+      <workItem from="1543108747810" duration="2382000" />
+      <workItem from="1543116687255" duration="281000" />
+      <workItem from="1543203918594" duration="3710000" />
+      <workItem from="1543305823102" duration="2150000" />
+      <workItem from="1543320021951" duration="783000" />
+      <workItem from="1543454629389" duration="3732000" />
+      <workItem from="1543636247445" duration="956000" />
+      <workItem from="1543807858872" duration="221000" />
+      <workItem from="1543808155124" duration="385000" />
+      <workItem from="1543808592339" duration="186000" />
+      <workItem from="1543808794670" duration="308000" />
+      <workItem from="1543809237746" duration="1603000" />
+      <workItem from="1543890592819" duration="501000" />
+      <workItem from="1544261988265" duration="324000" />
+      <workItem from="1544321773070" duration="1998000" />
+      <workItem from="1544515521737" duration="53000" />
+      <workItem from="1544515589018" duration="363000" />
+      <workItem from="1544665712964" duration="2036000" />
+      <workItem from="1544751165881" duration="1105000" />
+      <workItem from="1544758210833" duration="3847000" />
+      <workItem from="1544848692928" duration="3643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3118000" />
+    <option name="totallyTimeSpent" value="38458000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="0" width="1023" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2864424" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7176471" visible="true" weight="0.22222222" />
+      <window_info id="Structure" order="1" sideWeight="0.28235295" side_tool="true" visible="true" weight="0.22222222" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.21632653" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" sideWeight="0.4993895" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/singleton/java/com/natsuki/T.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/singleton/java/com/natsuki/StaticInnerClassSingleton.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/singleton/java/com/natsuki/TestSIngleton.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/singleton/java/com/natsuki/TestSIngleton.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/singleton/java/com/natsuki/TestSIngleton.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/singleton/java/com/natsuki/TestSIngleton.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>share.changed</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>share.hasChanged()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JavaScript-modules-diagram//Users/xuzhiwei/Downloads/design_pattern/open_close">
+    <entry file="file://$PROJECT_DIR$/singleton/java/com/natsuki/StaticInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10380">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compositepattern/java/com/natsuki/CompositeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/DataBase.java" />
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/XMLUtil.java" />
+    <entry file="uml://JAVA/com.natsuki.BridgeTest">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/open_close</OriginalElement>
-          <nodes />
+          <ID>JAVA</ID>
+          <OriginalElement>com.natsuki.BridgeTest</OriginalElement>
+          <nodes>
+            <node x="459.0" y="225.0">com.natsuki.TextParse2Txt</node>
+            <node x="0.0" y="112.5">com.natsuki.ReadMysqlDataBase</node>
+            <node x="344.0" y="0.0">com.natsuki.ReadDataBase</node>
+            <node x="599.7659090909091" y="101.0">com.natsuki.TextParse</node>
+            <node x="649.0" y="225.0">com.natsuki.TextParse2Xml</node>
+            <node x="405.07196969696963" y="326.0">com.natsuki.BridgeTest</node>
+            <node x="228.99999999999997" y="112.5">com.natsuki.ReadOracleDataBase</node>
+          </nodes>
           <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
-          <SelectedNodes />
+          <edges>
+            <edge source="com.natsuki.TextParse2Txt" target="com.natsuki.TextParse">
+              <point x="0.0" y="-25.5" />
+              <point x="544.0" y="200.0" />
+              <point x="637.9325757575757" y="200.0" />
+              <point x="-76.33333333333331" y="37.0" />
+            </edge>
+            <edge source="com.natsuki.BridgeTest" target="com.natsuki.TextParse2Txt">
+              <point x="23.0" y="-25.5" />
+              <point x="520.0719696969696" y="301.0" />
+              <point x="544.0" y="301.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.natsuki.BridgeTest" target="com.natsuki.TextParse">
+              <point x="69.0" y="-25.5" />
+              <point x="566.0719696969696" y="301.0" />
+              <point x="829.5" y="301.0" />
+              <point x="829.5" y="200.0" />
+              <point x="790.5992424242424" y="200.0" />
+              <point x="76.33333333333331" y="37.0" />
+            </edge>
+            <edge source="com.natsuki.BridgeTest" target="com.natsuki.ReadDataBase">
+              <point x="-23.0" y="-25.5" />
+              <point x="474.07196969696963" y="301.0" />
+              <point x="448.5" y="301.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.natsuki.ReadMysqlDataBase" target="com.natsuki.ReadDataBase">
+              <point x="0.0" y="-25.5" />
+              <point x="104.5" y="71.0" />
+              <point x="364.9" y="71.0" />
+              <point x="-83.60000000000002" y="25.5" />
+            </edge>
+            <edge source="com.natsuki.TextParse2Xml" target="com.natsuki.TextParse">
+              <point x="0.0" y="-25.5" />
+              <point x="734.0" y="200.0" />
+              <point x="714.2659090909091" y="200.0" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="com.natsuki.TextParse" target="com.natsuki.ReadDataBase">
+              <point x="57.24999999999994" y="-37.0" />
+              <point x="771.515909090909" y="71.0" />
+              <point x="532.1" y="71.0" />
+              <point x="83.60000000000002" y="25.5" />
+            </edge>
+            <edge source="com.natsuki.ReadOracleDataBase" target="com.natsuki.ReadDataBase">
+              <point x="0.0" y="-25.5" />
+              <point x="333.5" y="81.0" />
+              <point x="406.69999999999993" y="81.0" />
+              <point x="-41.80000000000001" y="25.5" />
+            </edge>
+            <edge source="com.natsuki.BridgeTest" target="com.natsuki.ReadMysqlDataBase">
+              <point x="-69.0" y="-25.5" />
+              <point x="428.07196969696963" y="301.0" />
+              <point x="104.5" y="301.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="255.0" y="354.0" />
+          <SelectedNodes>
+            <node>com.natsuki.BridgeTest</node>
+          </SelectedNodes>
           <Categories>
-            <Category>All</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
           </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse2Xml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/TextParse2Txt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/BridgeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/javax/xml/parsers/DocumentBuilderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="119" column="34" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadOracleDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bridgepattern/java/com/natsuki/ReadMysqlDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="138" column="29" lean-forward="true" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
+          <folding>
+            <element signature="e#5937#5938#0" expanded="true" />
+            <element signature="e#5967#5968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observerpattern/java/com/natsuki/Share.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observerpattern/java/com/natsuki/Investor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mementopattern/java/com/natsuki/Chessman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mementopattern/java/com/natsuki/MementoCaretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mementopattern/java/com/natsuki/ChessmanMemento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observerpattern/java/com/natsuki/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mementopattern/java/com/natsuki/MementoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commandpattern/java/com/natsuki/ModifyCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -311,75 +933,693 @@
           <ID>JAVA</ID>
           <OriginalElement>com.natsuki</OriginalElement>
           <nodes>
-            <node x="" y="">com.natsuki.ICourse</node>
-            <node x="" y="">com.natsuki.JavaCourse</node>
+            <node x="260.0" y="1293.0">com.natsuki.Client</node>
+            <node x="495.0" y="158.0">com.natsuki.JavaDiscountCourse</node>
+            <node x="478.0" y="997.0">com.natsuki.GeoMetryToolFactory</node>
+            <node x="670.0" y="464.0">com.natsuki.GifImageReaderFactory</node>
+            <node x="1097.0" y="1219.0">com.natsuki.FileUtil</node>
+            <node x="220.25" y="0.0">com.natsuki.AbstractEncryption</node>
+            <node x="522.5" y="79.0">com.natsuki.JavaCourse</node>
+            <node x="0.0" y="1071.0">com.natsuki.TestBuilderParctice</node>
+            <node x="228.0" y="158.0">com.natsuki.SecondEncryptionDecorator</node>
+            <node x="599.0" y="770.0">com.natsuki.BlackIgoChessman</node>
+            <node x="250.0" y="997.0">com.natsuki.ConfigSettingWindow</node>
+            <node x="770.0" y="311.0">com.natsuki.CompanyContainer</node>
+            <node x="412.0" y="770.0">com.natsuki.WhiteIgoChessman</node>
+            <node x="629.0" y="1071.0">com.natsuki.PerfectSingleton</node>
+            <node x="726.0" y="1145.0">com.natsuki.TestSIngleton</node>
+            <node x="155.0" y="464.0">com.natsuki.CircleTool</node>
+            <node x="763.0" y="1293.0">com.natsuki.Mail</node>
+            <node x="1081.0" y="1145.0">com.natsuki.ObserverTest</node>
+            <node x="284.0" y="464.0">com.natsuki.TriangleTool</node>
+            <node x="232.0" y="311.0">com.natsuki.SymbianInterfaceController</node>
+            <node x="517.0" y="923.0">com.natsuki.TextParse2Xml</node>
+            <node x="453.0" y="464.0">com.natsuki.JPGImageReaderFactory</node>
+            <node x="0.0" y="1219.0">com.natsuki.Coordinates</node>
+            <node x="333.0" y="1219.0">com.natsuki.BridgeTest</node>
+            <node x="721.5" y="844.0">com.natsuki.PlayerBuilder</node>
+            <node x="360.0" y="923.0">com.natsuki.TextParse2Txt</node>
+            <node x="824.0" y="1071.0">com.natsuki.ConfigOperator</node>
+            <node x="133.49999999999997" y="79.0">com.natsuki.EncryptionDecorator</node>
+            <node x="171.0" y="923.0">com.natsuki.GifImageReader</node>
+            <node x="973.0" y="770.0">com.natsuki.ModifyCommand</node>
+            <node x="367.0" y="1145.0">com.natsuki.EnumInstance</node>
+            <node x="651.0" y="232.0">com.natsuki.Company</node>
+            <node x="453.25" y="844.0">com.natsuki.TextParse</node>
+            <node x="0.0" y="923.0">com.natsuki.JPGImageReader</node>
+            <node x="192.0" y="770.0">com.natsuki.ReadOracleDataBase</node>
+            <node x="660.0" y="617.0">com.natsuki.SymbianSystemFactory</node>
+            <node x="861.25" y="0.0">com.natsuki.OperationController</node>
+            <node x="904.0" y="1145.0">com.natsuki.MementoTest</node>
+            <node x="114.75" y="691.0">com.natsuki.ReadDataBase</node>
+            <node x="452.0" y="617.0">com.natsuki.AndroidSystemFactory</node>
+            <node x="808.0" y="770.0">com.natsuki.InsertCommand</node>
+            <node x="957.0" y="79.0">com.natsuki.AndroidOperationController</node>
+            <node x="496.25" y="691.0">com.natsuki.AbstractIgoChessman</node>
+            <node x="388.0" y="1293.0">com.natsuki.Share</node>
+            <node x="702.0" y="923.0">com.natsuki.WholePlayerBuilder</node>
+            <node x="926.0" y="997.0">com.natsuki.ChessmanMemento</node>
+            <node x="140.0" y="617.0">com.natsuki.HeroBuilder</node>
+            <node x="141.25" y="232.0">com.natsuki.InterfaceController</node>
+            <node x="954.0" y="1219.0">com.natsuki.Investor</node>
+            <node x="0.0" y="158.0">com.natsuki.ThirdEncryptionDecorator</node>
+            <node x="0.0" y="997.0">com.natsuki.StaticInnerClassSingleton</node>
+            <node x="914.0" y="844.0">com.natsuki.LazyDoubleCheckSingleton</node>
+            <node x="168.0" y="1219.0">com.natsuki.Attachment</node>
+            <node x="0.0" y="464.0">com.natsuki.RectangleTool</node>
+            <node x="493.0" y="1219.0">com.natsuki.WeeklyLog</node>
+            <node x="658.0" y="311.0">com.natsuki.HRUnit</node>
+            <node x="516.0" y="1293.0">com.natsuki.Actor</node>
+            <node x="329.5" y="79.0">com.natsuki.Encryption</node>
+            <node x="547.0" y="1145.0">com.natsuki.LazySingleton</node>
+            <node x="281.0" y="617.0">com.natsuki.AngelBuilder</node>
+            <node x="0.0" y="617.0">com.natsuki.DevilBuilder</node>
+            <node x="704.0" y="997.0">com.natsuki.IgoChessmanFactory</node>
+            <node x="555.75" y="538.0">com.natsuki.OperationGameFactory</node>
+            <node x="643.0" y="1293.0">com.natsuki.Test</node>
+            <node x="653.0" y="1219.0">com.natsuki.Chessman</node>
+            <node x="96.25" y="844.0">com.natsuki.ImageReader</node>
+            <node x="0.0" y="1145.0">com.natsuki.CompositeTest</node>
+            <node x="715.0" y="79.0">com.natsuki.SymbianOperationController</node>
+            <node x="880.0" y="1293.0">com.natsuki.T</node>
+            <node x="0.0" y="1293.0">com.natsuki.Player</node>
+            <node x="186.0" y="1145.0">com.natsuki.FlyWeightTest</node>
+            <node x="142.0" y="385.0">com.natsuki.GeometryTool</node>
+            <node x="138.0" y="538.0">com.natsuki.ActorBuilder</node>
+            <node x="212.0" y="1071.0">com.natsuki.MementoCaretaker</node>
+            <node x="535.0" y="0.0">com.natsuki.ICourse</node>
+            <node x="0.0" y="770.0">com.natsuki.ReadMysqlDataBase</node>
+            <node x="0.0" y="311.0">com.natsuki.AndroidInterfaceController</node>
+            <node x="810.0" y="1219.0">com.natsuki.MailTest</node>
+            <node x="492.0" y="311.0">com.natsuki.TechnologyUnit</node>
+            <node x="909.75" y="691.0">com.natsuki.Command</node>
+            <node x="572.25" y="385.0">com.natsuki.ImageReaderFactory</node>
+            <node x="1013.0" y="1071.0">com.natsuki.ActorController</node>
+            <node x="130.0" y="1293.0">com.natsuki.Jsony</node>
+            <node x="421.0" y="1071.0">com.natsuki.TestDecoratorTest</node>
           </nodes>
           <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="60.0" y="54.0" />
-          <SelectedNodes />
+          <edges>
+            <edge source="com.natsuki.SymbianSystemFactory" target="com.natsuki.OperationGameFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="755.5" y="592.0" />
+              <point x="698.25" y="592.0" />
+              <point x="47.5" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.DevilBuilder" target="com.natsuki.ActorBuilder">
+              <point x="0.0" y="-14.5" />
+              <point x="60.0" y="592.0" />
+              <point x="158.83333333333334" y="592.0" />
+              <point x="-41.66666666666666" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.WhiteIgoChessman" target="com.natsuki.AbstractIgoChessman">
+              <point x="0.0" y="-14.5" />
+              <point x="495.5" y="745.0" />
+              <point x="542.25" y="745.0" />
+              <point x="-46.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.SymbianOperationController" target="com.natsuki.OperationController">
+              <point x="0.0" y="-14.5" />
+              <point x="826.0" y="54.0" />
+              <point x="903.75" y="54.0" />
+              <point x="-42.5" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.TextParse2Xml" target="com.natsuki.TextParse">
+              <point x="0.0" y="-14.5" />
+              <point x="587.0" y="898.0" />
+              <point x="535.0" y="898.0" />
+              <point x="27.25" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.ReadOracleDataBase" target="com.natsuki.ReadDataBase">
+              <point x="0.0" y="-14.5" />
+              <point x="279.5" y="745.0" />
+              <point x="216.75" y="745.0" />
+              <point x="34.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.TriangleTool" target="com.natsuki.GeometryTool">
+              <point x="0.0" y="-14.5" />
+              <point x="346.0" y="439.0" />
+              <point x="254.5" y="439.0" />
+              <point x="45.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.JPGImageReader" target="com.natsuki.ImageReader">
+              <point x="0.0" y="-14.5" />
+              <point x="75.5" y="898.0" />
+              <point x="127.75" y="898.0" />
+              <point x="-31.5" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.TextParse2Txt" target="com.natsuki.TextParse">
+              <point x="0.0" y="-14.5" />
+              <point x="428.5" y="898.0" />
+              <point x="480.5" y="898.0" />
+              <point x="-27.25" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.CircleTool" target="com.natsuki.GeometryTool">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.JavaCourse" target="com.natsuki.ICourse">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.SymbianInterfaceController" target="com.natsuki.InterfaceController">
+              <point x="0.0" y="-14.5" />
+              <point x="339.5" y="286.0" />
+              <point x="263.5" y="286.0" />
+              <point x="40.75" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.SecondEncryptionDecorator" target="com.natsuki.EncryptionDecorator">
+              <point x="0.0" y="-14.5" />
+              <point x="339.0" y="133.0" />
+              <point x="265.5" y="133.0" />
+              <point x="44.00000000000003" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.AndroidInterfaceController" target="com.natsuki.InterfaceController">
+              <point x="0.0" y="-14.5" />
+              <point x="106.0" y="286.0" />
+              <point x="182.0" y="286.0" />
+              <point x="-40.75" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.CompanyContainer" target="com.natsuki.Company">
+              <point x="0.0" y="-14.5" />
+              <point x="853.0" y="286.0" />
+              <point x="739.3333333333334" y="286.0" />
+              <point x="35.33333333333337" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.ThirdEncryptionDecorator" target="com.natsuki.EncryptionDecorator">
+              <point x="0.0" y="-14.5" />
+              <point x="104.0" y="133.0" />
+              <point x="177.49999999999997" y="133.0" />
+              <point x="-44.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.WholePlayerBuilder" target="com.natsuki.PlayerBuilder">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.JavaDiscountCourse" target="com.natsuki.JavaCourse">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.EncryptionDecorator" target="com.natsuki.AbstractEncryption">
+              <point x="2.8421709430404007E-14" y="-14.5" />
+              <point x="221.5" y="54.0" />
+              <point x="262.25" y="54.0" />
+              <point x="-42.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.ModifyCommand" target="com.natsuki.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="1049.0" y="745.0" />
+              <point x="992.25" y="745.0" />
+              <point x="27.5" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.RectangleTool" target="com.natsuki.GeometryTool">
+              <point x="0.0" y="-14.5" />
+              <point x="67.5" y="439.0" />
+              <point x="164.5" y="439.0" />
+              <point x="-45.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.AndroidSystemFactory" target="com.natsuki.OperationGameFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="546.0" y="592.0" />
+              <point x="603.25" y="592.0" />
+              <point x="-47.5" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.Encryption" target="com.natsuki.AbstractEncryption">
+              <point x="0.0" y="-14.5" />
+              <point x="387.0" y="54.0" />
+              <point x="346.25" y="54.0" />
+              <point x="42.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.InsertCommand" target="com.natsuki.Command">
+              <point x="0.0" y="-14.5" />
+              <point x="880.5" y="745.0" />
+              <point x="937.25" y="745.0" />
+              <point x="-27.5" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.GifImageReaderFactory" target="com.natsuki.ImageReaderFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="765.0" y="439.0" />
+              <point x="701.25" y="439.0" />
+              <point x="43.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.AndroidOperationController" target="com.natsuki.OperationController">
+              <point x="0.0" y="-14.5" />
+              <point x="1066.5" y="54.0" />
+              <point x="988.75" y="54.0" />
+              <point x="42.5" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.ReadMysqlDataBase" target="com.natsuki.ReadDataBase">
+              <point x="0.0" y="-14.5" />
+              <point x="86.0" y="745.0" />
+              <point x="148.75" y="745.0" />
+              <point x="-34.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.GifImageReader" target="com.natsuki.ImageReader">
+              <point x="0.0" y="-14.5" />
+              <point x="243.0" y="898.0" />
+              <point x="190.75" y="898.0" />
+              <point x="31.5" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.JPGImageReaderFactory" target="com.natsuki.ImageReaderFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="551.5" y="439.0" />
+              <point x="615.25" y="439.0" />
+              <point x="-43.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.AngelBuilder" target="com.natsuki.ActorBuilder">
+              <point x="0.0" y="-14.5" />
+              <point x="344.0" y="592.0" />
+              <point x="242.16666666666666" y="592.0" />
+              <point x="41.66666666666666" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.TechnologyUnit" target="com.natsuki.Company">
+              <point x="0.0" y="-14.5" />
+              <point x="565.0" y="286.0" />
+              <point x="668.6666666666666" y="286.0" />
+              <point x="-35.33333333333337" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.HeroBuilder" target="com.natsuki.ActorBuilder">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.HRUnit" target="com.natsuki.Company">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.BlackIgoChessman" target="com.natsuki.AbstractIgoChessman">
+              <point x="0.0" y="-14.5" />
+              <point x="681.0" y="745.0" />
+              <point x="634.25" y="745.0" />
+              <point x="46.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6587183308494784" x="0.0" y="354.0" />
+          <SelectedNodes>
+            <node>com.natsuki.Client</node>
+          </SelectedNodes>
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open_close/java/com/natsuki/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+    <entry file="uml://JAVA/com.natsuki.Command">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.natsuki.Command</OriginalElement>
+          <nodes>
+            <node x="3.0" y="79.0">com.natsuki.Command</node>
+            <node x="0.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.natsuki.Command" target="java.io.Serializable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-341.0" y="-148.0" />
+          <SelectedNodes>
+            <node>com.natsuki.Command</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open_close/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
+    <entry file="uml://JAVA/com.natsuki.FileUtil">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.natsuki.FileUtil</OriginalElement>
+          <nodes>
+            <node x="34.125" y="39.0">com.natsuki.ConfigOperator</node>
+            <node x="326.625" y="229.5">com.natsuki.FileUtil</node>
+            <node x="-11.0" y="430.5">com.natsuki.ModifyCommand</node>
+            <node x="33.25" y="184.0">com.natsuki.Command</node>
+            <node x="-247.0" y="430.5">com.natsuki.InsertCommand</node>
+            <node x="232.0" y="408.0">com.natsuki.ConfigSettingWindow</node>
+            <node x="119.625" y="-68.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.natsuki.InsertCommand" target="com.natsuki.Command">
+              <point x="-54.0" y="-48.0" />
+              <point x="-193.0" y="368.0" />
+              <point x="50.821428571428555" y="368.0" />
+              <point x="-105.42857142857144" y="82.0" />
+            </edge>
+            <edge source="com.natsuki.ConfigSettingWindow" target="com.natsuki.FileUtil">
+              <point x="89.625" y="-70.5" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="com.natsuki.Command" target="com.natsuki.ConfigOperator">
+              <point x="0.0" y="-82.0" />
+              <point x="156.25" y="159.0" />
+              <point x="174.375" y="159.0" />
+              <point x="46.75" y="47.5" />
+            </edge>
+            <edge source="com.natsuki.Command" target="java.io.Serializable">
+              <point x="82.0" y="-82.0" />
+              <point x="238.25" y="159.0" />
+              <point x="231.625" y="159.0" />
+              <point x="231.625" y="14.0" />
+              <point x="208.625" y="14.0" />
+              <point x="29.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.ConfigOperator" target="java.io.Serializable">
+              <point x="0.0" y="-47.5" />
+              <point x="127.625" y="14.0" />
+              <point x="150.625" y="14.0" />
+              <point x="-29.0" y="14.5" />
+            </edge>
+            <edge source="com.natsuki.ConfigSettingWindow" target="com.natsuki.Command">
+              <point x="-29.875" y="-70.5" />
+              <point x="321.625" y="378.0" />
+              <point x="226.53571428571428" y="378.0" />
+              <point x="70.28571428571428" y="82.0" />
+            </edge>
+            <edge source="com.natsuki.ModifyCommand" target="com.natsuki.Command">
+              <point x="-55.75" y="-48.0" />
+              <point x="44.75" y="388.0" />
+              <point x="121.10714285714283" y="388.0" />
+              <point x="-35.14285714285717" y="82.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-200.0" y="-20.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open_close/java/com/natsuki/JavaCourse.java">
+    <entry file="file://$PROJECT_DIR$/commandpattern/java/com/natsuki/ConfigSettingWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="390">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open_close/test/Test.java">
+    <entry file="file://$PROJECT_DIR$/commandpattern/java/com/natsuki/InsertCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commandpattern/java/com/natsuki/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commandpattern/java/com/natsuki/ConfigOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commandpattern/java/com/natsuki/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commandpattern/java/com/natsuki/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open_close/java/com/natsuki/JavaDiscountCourse.java">
+    <entry file="file://$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Approver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/PurchaseRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/President.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/Congress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/VicePresident.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chainofresponsibility/java/com/natsuki/ChainOfResponsibility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/FulltimeEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/ParttimeEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/HRDepartment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/EmployeeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern/java/com/natsuki/FADepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/RewardSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/VisitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visitorpattern2/java/com/natsuki/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -423,7 +1663,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -440,6 +1680,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
